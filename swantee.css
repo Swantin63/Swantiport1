@@ -1,0 +1,50 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap');
+
+
+#head{
+    position: absolute;
+    left: 600px;
+}
+#about{
+    position: absolute;
+    
+}
+.box{
+    width: 800px;
+    height: 300px;
+    position: absolute;
+    left: 350px;
+    top: 100px;
+}
+img{
+    position: absolute;
+    left: 1200px;
+    top: 100px;
+    size: 50%;
+    border-radius: 15%;
+}
+body{
+    background-size: 100%;
+    font-family: 'Oswald', sans-serif;
+}
+#instagram{
+    position: absolute;
+    left: -745px;
+    top: 395px;
+}
+#logo{
+    position: absolute;
+    left: -745px;
+    top: 500px;
+}
+#Linkedin{
+    position: absolute;
+    left: -645px;
+    top: 395px;
+}
+#gitt{
+    position: absolute;
+    top: 395px;
+    left: -545px;
+}
